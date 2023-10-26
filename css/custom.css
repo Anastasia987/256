@@ -7,8 +7,10 @@ h1, h2, h3, h4, h5, h6 {
 	color: black;
 	}
 	
+
+
 .feature {
-	background: yellowgreen linear-gradient(to bottom, greenyellow, olivedrab);
+	background:pink linear-gradient(to bottom, pink, lightblue );
 	color: black;
 	}
 
@@ -48,3 +50,14 @@ h1, h2, h3, h4, h5, h6 {
 	text-align: left;
 	
 	}
+	.item { 
+		text-align: center;
+		   }
+		   .item h1{
+			   color:darkblue;
+	   
+		   }
+	   
+		   .item p {
+		color: white ;
+		   }
